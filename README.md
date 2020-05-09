@@ -1,4 +1,4 @@
-## This is a repo developed during a Flutter course all original resources files are in this README (design and code).
+## This repo was developed during a Flutter course all original resources files are in this README (design and code).
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
